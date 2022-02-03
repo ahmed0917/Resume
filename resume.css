@@ -115,16 +115,19 @@ body{
   border-radius: 12px;
 }
 .js-progress{
-  width: 70%;
+  width: 72%;
 }
 .ps-progress{
-  width: 40%;
+  width: 45%;
 }
 .hc-progress{
   width: 90%;
 }
 .py-progress{
-  width: 78%;
+  width: 65%;
+}
+.php-progress{
+  width: 60%;
 }
 
 
